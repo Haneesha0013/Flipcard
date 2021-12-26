@@ -1,0 +1,68 @@
+<html>
+<head>
+   <title>flip</title>
+   <link rel="stylesheet" href="style1.css">
+</head>
+<body>
+ 
+  <div class="flipkart">
+  
+    <center-left>
+		<div class="flipkart-front">
+		<center>
+			<br><img src="E:\workshop\watch.jpg.jpg"><br><br>
+			<p><h4>GARNIER</h4></p><br>
+			<p>Garnier pure active micellar</p>
+			<p>cleaning water,125ml</p><br>
+			<p class="price"><b>$60</b></p><br>
+			<p color="#ff9900">*</p>
+			<br><br><br><br>
+			<div class="apple">
+			  <center>
+			    <p><b>ADD TO CART</b></p>
+			  </center>
+			</div>  
+		</center>
+		
+		</div>
+	</center-left>
+	
+		<div class="flip-card-side">
+		<center>
+			<br><img src="shoe.jpg.jpg"><br><br>
+			<p><h4>GARNIER</h4></p><br>
+			<p>Garnier pure active micellar</p>
+			<p>cleaning water,125ml</p><br>
+			<p class="tag"><b>$60</b></p><br>
+			<p color="#ff0000">*</p>
+			<br><br><br><br>
+			<div class="banana">
+			  <center>
+			    <p><b>ADD TO CART</b></p>
+			  </center>
+			</div>  
+		</center>	
+		</div>
+	
+	<center-right>
+		<div class="flipcard-right">
+		<center>
+			<br><img src="tshirt.jpg"><br><br>
+			<p><h4>GARNIER</h4></p><br>
+			<p>Garnier pure active micellar</p>
+			<p>cleaning water,125ml</p><br>
+			<p class="task"><b>$60</b></p><br>
+			<p color="#ffbf00">*</p>
+			<br><br><br><br>
+			<div class="shirt">
+			  <center>
+			    <p><b>ADD TO CART<b></p>
+			  </center>
+			</div>  
+		</center>	
+		</div>
+	</center-right>		
+  
+  </div>  
+</body>
+</html>
